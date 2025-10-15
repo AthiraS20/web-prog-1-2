@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Image Mapping</title>
+</head>
+<body>
+<img src="https://study.com/cimages/multimages/16/two_dimensional_shapes_with_labels.png"usemap="#image-map">
+<map name="image-map">
+    <area target="" alt=""title="" href="triangle.html" coords="11,7,121,125" shape="rect">
+      <area target="" alt="" title="" href="square.html" coords="183,19,292,125" shape="rect">
+          <area target="" alt="" title="" href="rectangle.html" coords="6,178,150,308" shape="rect">
+              <area target="" alt="" title="" href="circle.html" coords="179,170,323,300" shape="rect">
+</map>
+</body>
+</html>
